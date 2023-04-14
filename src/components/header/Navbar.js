@@ -28,7 +28,7 @@ export default class Navbar extends Component {
             <a href="/">
               <img
                 className="LavinyaLogo"
-                title="Aksaray Eliva Beauty Güzellik Salonu"
+                title="Aksaray Eliva Beauty Salonu"
                 src={Logo4}
               ></img>
             </a>
