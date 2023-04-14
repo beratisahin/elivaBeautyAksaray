@@ -27,7 +27,7 @@ function Iletisim() {
           <img src={i1} className="contactIcons" title="Adres için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-          <span style={{color:"red"}}><b>Adres:</b></span><br/>
+          <span style={{color:"#E4439E"}}><b>Adres:</b></span><br/>
           Taşpazar Mah. Bediüzzaman Bulvarı Shefoon Üstü Gözde İş Merkezi, D:Kat: 2 D:8, 68100  <br/> <b>Merkez / Aksaray</b>
         </p>
       </div>
@@ -40,14 +40,14 @@ function Iletisim() {
           <img src={i2} className="contactIcons" title="Rezervasyon için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"red"}}><b>Rezervasyon:</b></span><br/>
+        <span style={{color:"#E4439E"}}><b>Rezervasyon:</b></span><br/>
           <b>0530 886 02 68</b>
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <img src={i3} className="contactIcons" title="Çalışma Saatleri"></img>
         <p className="contactText">
-         <span style={{color:"red"}}><b>Çalışma Saatleri:</b></span><br/>
+         <span style={{color:"#E4439E"}}><b>Çalışma Saatleri:</b></span><br/>
           Her Gün: 09:00 – 19:00
         </p>
       </div>
@@ -56,7 +56,7 @@ function Iletisim() {
           <img src={i4} className="contactIcons" title="WhatsApp için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"red"}}><b>WhatsApp:</b></span><br/>
+        <span style={{color:"#E4439E"}}><b>WhatsApp:</b></span><br/>
           <b>0530 886 02 68</b>
         </p>
       </div>
@@ -65,7 +65,7 @@ function Iletisim() {
           <img src={i5} className="contactIcons" title="Instagram için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"red"}}><b>Instagram:</b></span><br/>
+        <span style={{color:"#E4439E"}}><b>Instagram:</b></span><br/>
           @elivabeauty.aksaray
         </p>
       </div>
@@ -77,7 +77,7 @@ function Iletisim() {
           <img src={i6} className="contactIcons" title="Facebook için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"red"}}><b>Facebook:</b></span><br/>
+        <span style={{color:"#E4439E"}}><b>Facebook:</b></span><br/>
           @elivabeauty.aksaray
         </p>
       </div>
