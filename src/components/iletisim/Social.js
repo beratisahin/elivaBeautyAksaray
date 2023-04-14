@@ -24,7 +24,7 @@ function Iletisim() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={i1} className="contactIcons" title="Adres"></img>
+          <img src={i1} className="contactIcons" title="Adres için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
           <span style={{color:"red"}}><b>Adres:</b></span><br/>
@@ -37,7 +37,7 @@ function Iletisim() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src={i2} className="contactIcons" title="Rezervasyon"></img>
+          <img src={i2} className="contactIcons" title="Rezervasyon için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>Rezervasyon:</b></span><br/>
@@ -53,7 +53,7 @@ function Iletisim() {
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
       <a href="https://wa.me/+905308860268" target="_blank">
-          <img src={i4} className="contactIcons" title="WhatsApp"></img>
+          <img src={i4} className="contactIcons" title="WhatsApp için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>WhatsApp:</b></span><br/>
@@ -62,7 +62,7 @@ function Iletisim() {
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a href="https://www.instagram.com/elivabeauty.aksaray/" target="_blank">
-          <img src={i5} className="contactIcons" title="Instagram"></img>
+          <img src={i5} className="contactIcons" title="Instagram için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>Instagram:</b></span><br/>
@@ -74,7 +74,7 @@ function Iletisim() {
           href="https://www.facebook.com/elivabeautyaksaray"
           target="_blank"
         >
-          <img src={i6} className="contactIcons" title="Facebook "></img>
+          <img src={i6} className="contactIcons" title="Facebook için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
         <span style={{color:"red"}}><b>Facebook:</b></span><br/>
