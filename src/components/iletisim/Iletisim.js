@@ -13,7 +13,7 @@ import i3 from "./3.webp";
 import i4 from "./4.webp";
 
 function Iletisim() {
-  useDocumentTitle("İletişim - Aksaray Eliva Beauty Güzellik Salonu ");
+  useDocumentTitle("İletişim - Samsun Titanyum Beauty Güzellik Salonu ");
   return (
     <div className="col-12">
       <div
@@ -35,7 +35,7 @@ function Iletisim() {
               className="contactIcons"
               title="Epilasyon Konum"
             ></img>
-            <p className="contactText"><b>Adres:</b><br/> Taşpazar Mah. Bediüzzaman Bulvarı Shefoon Üstü Gözde İş Merkezi, D:Kat: 2 D:8, 68100 Merkez / Aksaray</p>
+            <p className="contactText"><b>Adres:</b><br/> Kale Mah. Kaptanağa Sok. No:14/5 Mecit Turan İş Merkezi Kat:1  Samsun Cumhuriyet Meydanı İlkadım / Samsun</p>
           </div>
           <div class="col-lg-6s col-md-6 col-sm-12 col-12">
             <img
@@ -43,7 +43,7 @@ function Iletisim() {
               className="contactIcons"
               title="Epilasyon Konum"
             ></img>
-            <p className="contactText"><b>Rezervasyon:</b> <br/>0530 886 02 68</p>
+            <p className="contactText"><b>Rezervasyon:</b> <br/>0501 148 17 55</p>
           </div>
           <div class="col-lg-6s col-md-6 col-sm-12 col-12">
             <img
@@ -51,7 +51,8 @@ function Iletisim() {
               className="contactIcons"
               title="Epilasyon Konum"
             ></img>
-            <p className="contactText"><b>Çalışma Saatleri:</b> <br/>Her Gün: 09:00 – 19:00</p>
+            <p className="contactText"><b>Çalışma Saatleri:</b> <br/>Her Gün: 09:00 – 19:00 <br/>Pazar Günü: Kapalı</p>
+
           </div>
           <div class="col-lg-6s col-md-6 col-sm-12 col-12">
             <img
@@ -59,14 +60,14 @@ function Iletisim() {
               className="contactIcons"
               title="Epilasyon Konum"
             ></img>
-            <p className="contactText"><b>WhatsApp:</b> <br/>0530 886 02 68</p>
+            <p className="contactText"><b>WhatsApp:</b> <br/>0501 148 17 55</p>
           </div>
         </div>
       </div>
 
       <div class="col-lg-6 col-md-6 col-sm-12 col-12">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1197.3860583891667!2d34.0284802468115!3d38.36889100822987!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d671d1dca29029%3A0x6182374c69155cc9!2sE&#39;liva%20Beauty%20Aksaray!5e0!3m2!1str!2str!4v1681427222023!5m2!1str!2str"
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1886.2530205135295!2d36.33326837229849!3d41.291129980031684!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408877b8eeb8aa0b%3A0x91099c41e21ddd5!2sMecit%20Turan%20%C4%B0%C5%9F%20Merkezi!5e0!3m2!1str!2str!4v1700992134152!5m2!1str!2str"
           className="googleharita"
           style={{
             width: "100%",

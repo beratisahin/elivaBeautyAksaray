@@ -7,7 +7,7 @@ import y2 from "./9.webp";
 import y3 from "./10.webp";
 
 export default function YosunPeeling() {
-  useDocumentTitle("Aksaray Yosun Peeling");
+  useDocumentTitle("Samsun Yosun Peeling");
   return (
     <div className="col-12">
       <div
@@ -60,7 +60,7 @@ export default function YosunPeeling() {
             <div class="col-lg-4 col-md-6 col-sm-12 col-12">
               <img
                 class="yImg"
-                title="Aksaray Yosun Peeling"
+                title="Samsun Yosun Peeling"
                 alt="Yosun Peeling"
                 src={y1}
               ></img>
@@ -68,7 +68,7 @@ export default function YosunPeeling() {
             <div class="col-lg-4 col-md-6 col-sm-12 col-12">
               <img
                 class="yImg"
-                title="Aksaray Yosun Peeling"
+                title="Samsun Yosun Peeling"
                 alt="Yosun Peeling"
                 src={y2}
               ></img>
@@ -76,7 +76,7 @@ export default function YosunPeeling() {
             <div class="col-lg-4 col-md-6 col-sm-12 col-12">
               <img
                 class="yImg"
-                title="Aksaray Yosun Peeling"
+                title="Samsun Yosun Peeling"
                 alt="Yosun Peeling"
                 src={y3}
               ></img>
