@@ -67,7 +67,7 @@ function Home() {
           style={{ marginTop: "2.5rem" }}
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1886.2530205135295!2d36.33326837229849!3d41.291129980031684!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x408877b8eeb8aa0b%3A0x91099c41e21ddd5!2sMecit%20Turan%20%C4%B0%C5%9F%20Merkezi!5e0!3m2!1str!2str!4v1700992134152!5m2!1str!2str"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d749.4633199300389!2d36.33274173437836!3d41.29029756202173!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40887751b3e48717%3A0xf67f44601f109979!2sSamsun%20Titanyum%20Beauty%20Salon!5e0!3m2!1str!2str!4v1701088081975!5m2!1str!2str"
             className="googleharita"
             style={{
               width: "100%",
