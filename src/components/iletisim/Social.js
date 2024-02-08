@@ -15,70 +15,71 @@ import i5 from "./5.webp";
 import i6 from "./6.webp";
 
 function Iletisim() {
-  useDocumentTitle("Aksaray Lazer Epilasyon - Aksaray Eliva Beauty Salonu ");
+  useDocumentTitle("Samsun Lazer Epilasyon - Samsun Titanyum Beauty Salonu ");
   return (
     <div className="row">
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a
-          href="https://goo.gl/maps/Z5Yqu1zK1aHuuzzi6"
+          href="https://maps.app.goo.gl/dbmQRL9PAxF3yENF6"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img src={i1} className="contactIcons" title="Adres için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-          <span style={{color:"#E4439E"}}><b>Adres:</b></span><br/>
-          Taşpazar Mah. Bediüzzaman Bulvarı Shefoon Üstü Gözde İş Merkezi, D:Kat: 2 D:8, 68100  <br/> <b>Merkez / Aksaray</b>
+          <span style={{color:"#e4a70f"}}><b>Adres:</b></span><br/>
+          Kale Mah. Kaptanağa Sok. No:14/5 Mecit Turan İş Merkezi Kat:1  Samsun Cumhuriyet Meydanı  <br/> <b>İlkadım / Samsun</b>
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a
-          href="tel: +905308860268"
+          href="tel: +905011481755"
           target="_blank"
           rel="noopener noreferrer"
         >
           <img src={i2} className="contactIcons" title="Rezervasyon için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"#E4439E"}}><b>Rezervasyon:</b></span><br/>
-          <b>0530 886 02 68</b>
+        <span style={{color:"#e4a70f"}}><b>Rezervasyon:</b></span><br/>
+          <b>0501 148 17 55</b>
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <img src={i3} className="contactIcons" title="Çalışma Saatleri"></img>
         <p className="contactText">
-         <span style={{color:"#E4439E"}}><b>Çalışma Saatleri:</b></span><br/>
-          Her Gün: 09:00 – 19:00
+         <span style={{color:"#e4a70f"}}><b>Çalışma Saatleri:</b></span><br/>
+          Her Gün: 09:30 – 19:30
+          Pazar Günü: Kapalı
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
-      <a href="https://wa.me/+905308860268" target="_blank">
+      <a href="https://wa.me/+905011481755" target="_blank">
           <img src={i4} className="contactIcons" title="WhatsApp için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"#E4439E"}}><b>WhatsApp:</b></span><br/>
-          <b>0530 886 02 68</b>
+        <span style={{color:"#e4a70f"}}><b>WhatsApp:</b></span><br/>
+          <b>0501 148 17 55</b>
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
-        <a href="https://www.instagram.com/elivabeauty.aksaray/" target="_blank">
+        <a href="https://www.instagram.com/titanyum.beauty.samsun/" target="_blank">
           <img src={i5} className="contactIcons" title="Instagram için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"#E4439E"}}><b>Instagram:</b></span><br/>
-          @elivabeauty.aksaray
+        <span style={{color:"#e4a70f"}}><b>Instagram:</b></span><br/>
+          @titanyum.beauty.samsun
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a
-          href="https://www.facebook.com/elivabeautyaksaray"
+          href="https://www.facebook.com/titanyum.beauty.samsun"
           target="_blank"
         >
           <img src={i6} className="contactIcons" title="Facebook için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
-        <span style={{color:"#E4439E"}}><b>Facebook:</b></span><br/>
-          @elivabeauty.aksaray
+        <span style={{color:"#e4a70f"}}><b>Facebook:</b></span><br/>
+          @titanyum.beauty.samsun
         </p>
       </div>
     </div>

@@ -12,6 +12,8 @@ import k5 from "./kampanyalar/5.webp";
 import k6 from "./kampanyalar/6.webp";
 import k7 from "./kampanyalar/7.webp";
 import k8 from "./kampanyalar/8.webp";
+import k9 from "./kampanyalar/9.webp";
+import k10 from "./kampanyalar/10.webp";
 
 
 
@@ -61,40 +63,48 @@ export default function Klinik() {
                  
                <KampComp
                     kampanyaResim={k1}
-                    kampanyaAd="https://wa.me/+905308860268?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
                 />
 
                 <KampComp
                     kampanyaResim={k2}
-                    kampanyaAd="https://wa.me/+905308860268?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
                 />
                 <KampComp
                     kampanyaResim={k3}
-                    kampanyaAd="https://wa.me/+905308860268?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
                 />
 
                 <KampComp
                     kampanyaResim={k4}
-                    kampanyaAd="https://wa.me/+905308860268?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
                 />
 
                 <KampComp
                     kampanyaResim={k5}
-                    kampanyaAd="https://wa.me/+905308860268?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
                 />
 
                 <KampComp
                     kampanyaResim={k6}
-                    kampanyaAd="https://wa.me/+905308860268?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
                 />
 
                 <KampComp
                     kampanyaResim={k7}
-                    kampanyaAd="https://wa.me/+905308860268?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
                 />
                 <KampComp
                     kampanyaResim={k8}
-                    kampanyaAd="https://wa.me/+905308860268?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                />
+                <KampComp
+                    kampanyaResim={k9}
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
+                />
+                <KampComp
+                    kampanyaResim={k10}
+                    kampanyaAd="https://wa.me/+905011481755?text=Merhaba%20kampanyan%C4%B1z%20hakk%C4%B1nda%20detayl%C4%B1%20bilgi%20alabilir%20miyim%3F"
                 />
             </OwlCarousel>
         </div>    

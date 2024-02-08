@@ -7,7 +7,6 @@ import { Link } from "react-router-dom";
 import PhoneIcon from "@material-ui/icons/Phone";
 import LocationOnIcon from "@material-ui/icons/LocationOn";
 
-import MainLogo2 from "../header/elivaBeautyLogo.webp";
 
 import React, { Component } from "react";
 
@@ -59,7 +58,7 @@ export default class Foooter extends Component {
 
           <div className="roof-location">
             <a
-              href="https://goo.gl/maps/Z5Yqu1zK1aHuuzzi6"
+              href="https://maps.app.goo.gl/dbmQRL9PAxF3yENF6"
               className="location_float"
               target="_blank"
               rel="noopener noreferrer"
@@ -70,7 +69,7 @@ export default class Foooter extends Component {
 
           <div className="roof-phone">
             <a
-              href="tel: +905308860268" 
+              href="tel: +905011481755" 
               className="phone_float"
               target="_blank"
               rel="noopener noreferrer"
@@ -81,7 +80,7 @@ export default class Foooter extends Component {
 
           <div className="roof-whatsapp">
             <a
-              href="https://wa.me/+905308860268"
+              href="https://wa.me/+905011481755"
               className="whatsapp_float"
               target="_blank"
               rel="noopener noreferrer"

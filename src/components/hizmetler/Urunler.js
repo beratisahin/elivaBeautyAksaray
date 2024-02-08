@@ -4,8 +4,7 @@ import useDocumentTitle from "../../useDocumentTitle";
 import Title from "../title/Title";
 import Hydrafacial from "./cihazImage/hydrafacial.webp";
 import Hydrafacial2 from "./cihazImage/hydra2.webp";
-import UmeXCihaz from "./cihazImage/umeXCihaz.webp";
-import Umex from "./cihazImage/umex.webp";
+import ChampionCihaz from "./cihazImage/champion.webp";
 import Baslik from "./cihazImage/baslik.webp";
 import Magic from "./cihazImage/magicSlim.webp";
 import CiltAnaliz from "./cihazImage/ciltAnaliz.webp";
@@ -13,7 +12,7 @@ import CiltAnaliz from "./cihazImage/ciltAnaliz.webp";
 
 
 export default function Urunler() {
-  useDocumentTitle("Aksaray Güzellik Merkezi - Lazer Epilasyon");
+  useDocumentTitle("Samsun Güzellik Merkezi - Lazer Epilasyon");
   return (
     <div className="col-12">
       <div
@@ -37,7 +36,7 @@ export default function Urunler() {
                   aria-expanded="true"
                   aria-controls="collapseOne"
                 >
-                  UmeX Micro Lazer Cihazı
+                  Champion Lazer Cihazı
                 </button>
               </h2>
               <div
@@ -51,13 +50,7 @@ export default function Urunler() {
                     <img
                       class="accPho"
                       alt=""
-                      src={Umex}
-                      style={{ width: "30%", height: "500px" }}
-                    ></img>
-                     <img
-                      class="accPho"
-                      alt=""
-                      src={UmeXCihaz}
+                      src={ChampionCihaz}
                       style={{ width: "30%", height: "500px" }}
                     ></img>
                     <p class="urunbaslik">
@@ -70,7 +63,7 @@ export default function Urunler() {
                       değişkenlik göstermektedir. Örneğin yüz bölgesinde bulunan
                       ince ve açık renkli tüylerde 810 nm Diode dalga boyu
                       etkili olurken bacak bölgesindeki kalın ve koyu renkli
-                      tüylerde 755 nm Alexandrite dalga boyu etkilidir. UmeX
+                      tüylerde 755 nm Alexandrite dalga boyu etkilidir. Champion
                       Hybrid Alexandrite Laser epilasyon cihazı kıl köklerinin
                       tahrip edilebilmesi, kalıcı olarak yok olması için en
                       etkili ve güvenli iki dalga boyunu (755 nm Alexandrite -
@@ -83,7 +76,7 @@ export default function Urunler() {
                     </p>
                     <br />
                     <p class="urunyazi">
-                      UmeX yüksek soğutma kapasitesi sayesinde diğer soğuk hava
+                      Champion yüksek soğutma kapasitesi sayesinde diğer soğuk hava
                       üflemeli cihazlardan iki katı daha fazla soğuk hava
                       üretir. Üretilen bu soğuk havayı kayba uğramadan, en kısa
                       yoldan başlığa ulaştıran özel tasarıma sahiptir. Turbo
@@ -95,16 +88,16 @@ export default function Urunler() {
                       yapılabilir. Yapılan atış kıl kökünü hedef alırken aynı
                       zamanda cilt yüzeyindeki tüyleri kusursuz kıl patlatma
                       özelliği ile yok eder ve pürüzsüz bir cilt ile uygulama
-                      biter. Dört mevsim uygulama özelliğine sahip olan UmeX
+                      biter. Dört mevsim uygulama özelliğine sahip olan Champion
                       kombin lazer sistemi sayesinde en inatçı kıl tiplerinde
                       bile 4 – 6 seansta kesin ve kalıcı sonuçlar alabilirsiniz.
                     </p>
 
                     <p class="urunyazi">
-                      UmeX Hybrid Alexandrite lazer cihazı ile tek atış kıl
+                      Champion Hybrid Alexandrite lazer cihazı ile tek atış kıl
                       kökünü tahrip etmek için yeterlidir fakat diğer IPL
                       cihazlarda ise tam etki alabilmek için üst üste birden
-                      fazla atış yapmak gereklidir. UmeX Hybrid Alexandrite
+                      fazla atış yapmak gereklidir. Champion Hybrid Alexandrite
                       lazer cihazı 10 Hz çalışma hızında bile her atışında
                       enerjiyi iletir ve kıl kökünü tahrip eder fakat diğer
                       cihazlarda bu mümkün değildir. Çalışma hızı sayesinde
@@ -112,7 +105,7 @@ export default function Urunler() {
                       tasarruf edebilirsiniz. Diğer lazer cihazların da kalıcı
                       sonuçlar almak oldukça zordur. Bunun nedeni ise yeterli
                       enerji seviyesinde olmamalarıdır yeterli enerji seviyesine
-                      ulaşsalar dahi ciltte yanıklara neden olurlar. Fakat UmeX
+                      ulaşsalar dahi ciltte yanıklara neden olurlar. Fakat Champion
                       Hybrid Alexandrite lazer cihazı minimum acı ve maksimum
                       enerjiyle cilde zarar vermeden kıl kökünü etkisiz hale
                       getirir.
@@ -140,7 +133,7 @@ export default function Urunler() {
                       bulunmaktadır. Yeni nesil değiştirilebilir hijyenik
                       silikon aparat atış esnasında ışınların operatörün gözüne
                       yansımasını ve oluşabilecek göz bozukluklarını engeller.
-                      Bu cihazın kullanılmasının önemi oldukça fazladır. UmeX
+                      Bu cihazın kullanılmasının önemi oldukça fazladır. Champion
                       cihazı üfleme etkisi ile deriye zarar vermeden yalnızca
                       kıl köküne temas ederek orayı yakmayı hedefler. Derinize
                       hedef alınmayıp, temas edilmediği için herhangi bir acı
@@ -168,9 +161,9 @@ export default function Urunler() {
                     ></img>
                     <p class="urunbaslik">OTOMATİK KARARAN GÖZLÜK</p>
                     <p class="urunyazi">
-                      UmeXUltra Otomatik Kararan Gözlük, atış sırasında otomatik
-                      karararak konforlu bir uygulama sağlar UmeXUltra Otomatik
-                      Kararan Gözlük, tüm UmeXUltra cihazlarıyla birlikte
+                      ChampionUltra Otomatik Kararan Gözlük, atış sırasında otomatik
+                      karararak konforlu bir uygulama sağlar ChampionUltra Otomatik
+                      Kararan Gözlük, tüm ChampionUltra cihazlarıyla birlikte
                       ücretsiz olarak verilir. Koruma Özellikleri: Çok yönlü
                       absorpsiyon. Basit tasarım, etkili koruma boyutu Yüksek
                       kaliteli malzeme, güçlü darbe direnci, koruyucu etkisi ile
@@ -186,7 +179,7 @@ export default function Urunler() {
                     <img
                       class="accPho"
                       alt="Diode Lazer"
-                      title="Aksaray Lazer Epilasyon"
+                      title="Samsun Lazer Epilasyon"
                       src={CiltAnaliz}
                       style={{
                         width: "200px",
@@ -196,7 +189,7 @@ export default function Urunler() {
                     ></img>
                     <p class="urunbaslik">CİLT TİPİ ANALİZ CİHAZI</p>
                     <p class="urunyazi">
-                      Dilerseniz UmeXUltra’nın üzerinde takılı olan Hybrid
+                      Dilerseniz ChampionUltra’nın üzerinde takılı olan Hybrid
                       Alexandrtie başlığını ve Hybrid Diode başlığını dilerseniz
                       jelsiz hijyenik silikon ile tek tek patlatma atış modunda
                       dilersniz buzlanan başlık olarak jel ile birlikte hızlı
@@ -215,7 +208,7 @@ export default function Urunler() {
                     <img
                       class="accPho"
                       lt="Diode Lazer"
-                      title="Aksaray Lazer Epilasyon"
+                      title="Samsun Lazer Epilasyon"
                       src="https://www.capitalmedikal.com/upload/a92ogv6v-1kvqud3-ah4.png"
                       style={{ width: "250px", height: "98px" }}
                     ></img>
@@ -223,7 +216,7 @@ export default function Urunler() {
                       SİEMENS İLE DAHA GÜÇLÜ, BOSCH VEYA DURACELL İLE KESİNTİSİZ{" "}
                     </p>
                     <p class="urunyazi">
-                      UmeXUltra üstün kullanım ömrü sunarken elektrik
+                      ChampionUltra üstün kullanım ömrü sunarken elektrik
                       dalgalanmaları veya kesintileri yüzünden meydana gelen
                       arızalar ortadan kalkar. Elektrik akımı düzensizlikleri
                       ile meydana gelen Anakart ve İşlemci arızaları ortadan

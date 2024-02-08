@@ -7,7 +7,7 @@ import HomeIcon from "@material-ui/icons/Home";
 import ContactlessIcon from "@material-ui/icons/Contactless";
 import CategoryIcon from "@material-ui/icons/Category";
 
-import Logo4 from "./elivaBeautyLogo.webp";
+import Logo from "./titanyumLogo.webp";
 
 export default class Navbar extends Component {
   componentDidMount() {
@@ -27,9 +27,9 @@ export default class Navbar extends Component {
           <div class="branding">
             <a href="/">
               <img
-                className="LavinyaLogo"
-                title="Aksaray Eliva Beauty Salonu"
-                src={Logo4}
+                className="SalonLogo"
+                title="Samsun Titanyum Beauty Salonu"
+                src={Logo}
               ></img>
             </a>
           </div>
